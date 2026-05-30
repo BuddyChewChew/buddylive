@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-05-30 19:46:44
+# Last Updated: 2026-05-30 21:31:15
 #EXTINF:-1 group-title="MLB",05/30/26 02:10:00 PM EST = Detroit Tigers vs Chicago White Sox @ May 30 2:10 PM
 https://e4.thetvapp.to/hls/mlb01/tracks-v1a1/mono.m3u8?token=bdbikYGWGWTyznS1mm9maA&expires=1780183182&user_id=am9QRzFkYUtXS29YQ1JQQ0V4VWdGZ0diQm13empnR1BnT3ZvcnpqOA==
 #EXTINF:-1 group-title="MLB",05/30/26 04:05:00 PM EST = San Diego Padres vs Washington Nationals @ May 30 4:05 PM
