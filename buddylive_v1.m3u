@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-06-05 18:20:01
+# Last Updated: 2026-06-05 20:22:06
 #EXTINF:-1 group-title="MLB",06/05/26 02:20:00 PM EST = San Francisco Giants vs Chicago Cubs @ Jun 5 2:20 PM
 https://v5.thetvapp.to/hls/mlb01/tracks-v1a1/mono.m3u8?token=O_7sntKbVuZgu8WbfE-ufw&expires=1780704363&user_id=aWdFajF2aWJTblkwMnhRS211VGxnaHR1cVBRSG9jc3lTb2NXRUFleQ==
 #EXTINF:-1 group-title="MLB",06/05/26 06:40:00 PM EST = Seattle Mariners vs Detroit Tigers @ Jun 5 6:40 PM
