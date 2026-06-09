@@ -15,10 +15,10 @@
 
 ---------------------------------------------
 
-## ⛔ THE ((( THETVAPP.TO ))) STREAMS NO LONGER WORK THE SITE IS OFFLINE
+## THE ((( THETVAPP.TO ))) STREAMS NO LONGER WORK THE SITE IS OFFLINE
 
 
-##  📺 TheTVApp.to (SD)
+##  ⛔ TheTVApp.to (SD)
 
 
 ⭐M3U-With_EPG: https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u
@@ -35,7 +35,7 @@ Credit: https://github.com/mikekaprielian
 ---------------------------------------------
 
 
-##  📺 TheTVApp.to (SD/HD)
+##  ⛔ TheTVApp.to (SD/HD)
 
 ⭐M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8
 
