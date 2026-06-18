@@ -21,14 +21,14 @@
 ##  ⛔ TheTVApp.to (SD)
 
 
-⭐M3U-With_EPG: https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u
+~~⭐M3U-With_EPG: https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u~~
 
 
 `Alt Playlist and Epg:`
 
-M3U: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u
+M3U: ~~https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u~~
 
-EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
+EPG: ~~https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml~~
 
 Credit: https://github.com/mikekaprielian
 
@@ -37,7 +37,7 @@ Credit: https://github.com/mikekaprielian
 
 ##  ⛔ TheTVApp.to (SD/HD)
 
-⭐M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8
+⭐M3U: ~~https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8~~
 
 
 ---------------------------------------------
